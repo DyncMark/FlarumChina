@@ -1,11 +1,9 @@
 ![Flarum](http://flarum.org/img/logo.png)
 
-```
 graph LR
         A --- B
         B-->C[fa:fa-ban forbidden]
         B-->D(fa:fa-spinner);
-```
 
 **[FlarumChina](https://www.flarumchina.org) 是一个免费的开源的论坛软件** 诞生于[Flarum](http://flarum.org) / PHP / [Mithril.js](http://mithril.js.org). 她是一个:
 
